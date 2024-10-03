@@ -1,0 +1,62 @@
+{
+    "DC":[
+        {
+            "nombre real" : "Bruce Wayne",
+            "personaje" : "Batman",
+            "biografia" : " nació en Gotham City el 19 de febrero de 1972 siendo hijo de Martha y Thomas Wayne, pertenecientes a la pseudoaristocracia de la ciudad. En 1981",
+            "reistencia": " tiene un gran suministro de energía y una tolerancia a la fatiga que supera fácilmente a la mayoría de los súper seres",
+            "fuerza de ataque": "punteria exepcional, siendo capaz de acertar 9 disparos de 10 con cualquier arma",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Batman_cosplay.png"
+            
+        },
+
+        {
+            "nombre real" : "rthur Curry",
+            "personaje" : "Aquaman",
+            "biografia" : " el hijo del farero Tom Curry y Atlanna, una paria que respiraba bajo el agua de la ciudad submarina perdida de Atlantis",
+            "reistencia": "Capacidad telepatica de comunicarse con la vida marina",
+            "fuerza de ataque": "la capacidad de respirar bajo el agua y también oxígeno"
+            
+
+        },
+
+        {
+            "nombre real" : "Barry Allen",
+            "personaje" : "Flash",
+            "biografia" : " era un estudiante universitario en 1938 que accidentalmente inhaló vapores de agua pesada después de tomar un descanso para fumar dentro de su laboratorio donde había estado trabajando.",
+            "reistencia": " más rápida que la velocidad de la luz",
+            "fuerza de ataque":"son sus poderes y su conexión con la Fuerza de Velocidad"
+            
+        },
+
+        {
+            
+            "nombre real" : "Rachel Roth",
+            "personaje" : "Raven",
+            "biografia" : "es la hija del demonio interdimensional Trigon. Ella creció en la dimensión alternativa de Azarath y se le enseñó a controlar sus emociones",
+            "reistencia": "Al absorber el dolor de la herida en sí misma",
+            "fuerza de ataque": "es muy poderosa"
+        },
+
+        {
+            "nombre real":"Clark Kent",
+            "personaje" : "Superman",
+            "biografia" : "Superman nació en el planeta ficticio Krypton y recibió el nombre de nacimiento Kal-El. Cuando era un bebé, sus padres, el científico Jor-El y su esposa Lara Lor-Van",
+            "reistencia": " velocidad, resistencia, agilidad, reflejos, durabilidad, sentidos y longevidad.",
+            "fuerza de ataque": ""
+
+        },
+
+        {
+
+            "nombre real": "Diana de Temyscira",
+            "personaje" : "Wonder Woman",
+            "biografia" : "En su tierra natal es conocida como la princesa Diana de Temiscira pero fuera de esta utiliza la identidad secreta de Diana Prince.",
+            "reistencia": "accesorios mágicos, como el Lazo de la verdad, un Jet invisible, entre otros",
+            "fuerza de ataque": "la capacidad de volar"
+
+        }
+
+
+    ]
+}
